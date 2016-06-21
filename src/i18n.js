@@ -1,5 +1,5 @@
 /*eslint no-cond-assign: 0*/
-import i18next from 'i18next';
+import * as i18next from 'i18next';
 import {DOM} from 'aurelia-pal';
 
 export class I18N {
